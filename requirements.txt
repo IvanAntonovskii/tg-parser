@@ -1,0 +1,8 @@
+requests
+aiohttp
+beautifulsoup4
+pillow
+torch
+diffusers
+transformers
+accelerate
